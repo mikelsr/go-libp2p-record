@@ -2,8 +2,8 @@ module github.com/mikelsr/go-libp2p-record
 
 require (
 	github.com/gogo/protobuf v1.3.2
-	github.com/ipfs/go-ipfs-util v0.0.2
-	github.com/mikelsr/go-libp2p v0.28.1-0.20230701150814-14dbb6aaeb77
+	github.com/ipfs/go-ipfs-util v0.0.3
+	github.com/mikelsr/go-libp2p v0.28.1-0.20230701163002-241de34fb509
 	github.com/multiformats/go-multihash v0.2.3
 )
 
@@ -22,6 +22,7 @@ require (
 	github.com/multiformats/go-multicodec v0.9.0 // indirect
 	github.com/multiformats/go-varint v0.0.7 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
+	github.com/stretchr/testify v1.8.4 // indirect
 	golang.org/x/crypto v0.10.0 // indirect
 	golang.org/x/sys v0.9.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
